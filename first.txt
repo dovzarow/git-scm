@@ -1,0 +1,43 @@
+using System; 
+
+using System.Collections.Generic; 
+
+using System.Linq; 
+
+using System.Text; 
+
+using System.Threading.Tasks; 
+
+  
+
+namespace Pr1 
+
+{ 
+
+    class Programm 
+
+    { 
+
+        static void Main(string[]args) 
+
+        { 
+
+            Console.OutputEncoding= System.Text.Encoding.UTF8;   
+
+            System.Console.WriteLine("Інформація про студента: "); 
+
+            System.Console.WriteLine("Малєєв Я.А"); 
+
+            System.Console.WriteLine("Факультет інформаційних технологій"); 
+
+            System.Console.WriteLine("Спеціальність-інженерія програмного забезпечення"); 
+
+            System.Console.WriteLine("Форма навчання-дистанційна"); 
+
+            System.Console.WriteLine("група-1-6"); 
+
+        } 
+
+    }
+
+} 
